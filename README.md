@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)
+![MasterHead](https://user-images.githubusercontent.com/113489420/216842872-39c1c52e-7dfd-4a7f-a9cb-7e4c4dca85cb.gif)
 
 <h1 align="center">
   <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="80px">
